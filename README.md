@@ -1,6 +1,5 @@
 # DESIGN KURS
-## kmom01
-Redovisning kmom01
+## Redovisning kmom01
 =========================
 
 Jag har ingen erfarenhet av ramverk som bygger webbplatser från tidigare, ärligt sagt jag hade inte ens anat  
