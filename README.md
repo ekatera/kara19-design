@@ -1,2 +1,2 @@
-# kara19-design
-kara19/design
+# DESIGN KURS
+## kmom01
